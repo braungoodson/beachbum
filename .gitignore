@@ -1,3 +1,4 @@
 .cache/
 .ssh/
 .viminfo/
+.bash_history/
