@@ -1,4 +1,7 @@
 .cache/
 .ssh/
-.viminfo/
-.bash_history/
+.viminfo
+.bash_history
+.bash_logout
+.bashrc
+.profile
